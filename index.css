@@ -1,0 +1,24 @@
+ body {
+    margin: 50px;
+    font-family: Helvetica, sans-serif;
+    font-size: 150%;
+}
+
+button{
+    padding: 4px 8px;
+}
+#firstPage{
+    padding: 5px 10px;
+    margin: 100px;
+    background-color: darkkhaki;
+    
+    
+}
+
+#secondPage{
+    margin: 100px;
+
+    background-color: grey;
+    
+    
+}
